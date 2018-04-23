@@ -1,0 +1,23 @@
+{
+  "name": "imanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tommy9607/iManager.git"
+  },
+  "author": "Ruoqi Liu & Xiang Yue",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Tommy9607/iManager/issues"
+  },
+  "homepage": "https://github.com/Tommy9607/iManager#readme",
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "express": "^4.16.3"
+  }
+}
