@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca4d8150-ddc6-4ff7-9406-b7654e40f250" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="ca4d8150-ddc6-4ff7-9406-b7654e40f250" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -124,12 +121,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524472931424</updated>
-      <workItem from="1524472932730" duration="3503000" />
+      <workItem from="1524472932730" duration="3770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3503000" />
+    <option name="totallyTimeSpent" value="3770000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -141,7 +138,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="499" y="23" width="1319" height="803" extended-state="0" />
+    <frame x="105" y="23" width="1319" height="803" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24961479" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
