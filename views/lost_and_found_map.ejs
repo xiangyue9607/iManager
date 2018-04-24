@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Navbar Template for Bootstrap</title>
+
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet" href="css/leaflet.css"/>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Static navbar -->
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#"><span class="icon-fighter-jet"> iManager</span></a>
+
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="/">主页</a></li>
+                    <li class="active"><a href="lost_and_found">失物招领</a></li>
+
+
+                </ul>
+                </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="./"><span class="icon-user"> 萱萱</span></a></li>
+
+                </ul>
+            </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+    </nav>
+
+    <!-- Main component for a primary marketing message or call to action -->
+    <div class="container col-xs-12 col-md-10 col-md-offset-1">
+        <h2>
+            Hi, 萱萱!
+        </h2>
+
+        <div class="row">
+            <div class="col-xs-12 col-md-8"><h3>18:42 星期五 3月23日 晴</h3></div>
+            <div class="col-xs-6 col-md-4 text-right">
+                <h3>
+                    <!-- Standard button -->
+                    <button type="button" class="btn btn-default"><i class="icon-pencil"> 发布</i></button>
+
+                    <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+                    <button type="button" class="btn btn-default active"><i class="icon-list"> 列表</i></button>
+
+                    <!-- Indicates a successful or positive action -->
+                    <button type="button" class="btn btn-default"><i class="icon-map-marker"> 地图</i></button>
+                </h3>
+
+            </div>
+
+        </div>
+
+        <br>
+        <div class="content">
+        </div>
+
+    </div> <!-- /container -->
+
+</div>
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/leaflet.js"></script>
+</body>
+</html>
